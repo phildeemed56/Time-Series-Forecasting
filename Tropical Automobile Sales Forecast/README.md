@@ -30,7 +30,7 @@ The forecasting model is developed using time series analysis techniques in R. T
 
 **Tropical Automobile Sales Dataset.csv** The dataset containing quarterly sales data for Tropical Automobile.
 
-**sales_forecast_script.R:** The R script containing the code for data preprocessing, exploratory data analysis, model estimation, evaluation, and forecasting.
+**Tropical Automobile Sales Forecast.R** The R script containing the code for data preprocessing, exploratory data analysis, model estimation, evaluation, and forecasting.
 
 
 **Usage**
